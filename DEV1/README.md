@@ -4,3 +4,10 @@
 
 [Загрузить образ ВМ для VirtualBox](https://edu.postgrespro.ru/DEV1-student-12.ova)
 
+user student
+
+password student
+
+database "student"
+
+
