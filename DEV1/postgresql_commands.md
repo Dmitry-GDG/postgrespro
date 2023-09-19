@@ -3,6 +3,13 @@
 ```bash
     psql
 ```
+```sql
+    \conninfo
+You are connected to database "student" as user "student" via socket in "/var/run/postgresql" at port "5432".
+    \c student
+You are now connected to database "student" as user "student".
+    \l // просмотр списка БД и таблиц в них
+```
 Выход
 ```sql
 => \q
